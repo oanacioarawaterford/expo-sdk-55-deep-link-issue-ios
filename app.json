@@ -12,7 +12,8 @@
       "associatedDomains": [
         "applinks:test.domain.org",
         "webcredentials:test.domain.org"
-      ]
+      ],
+      "bundleIdentifier": "org.test.exposdk55deeplinkissueios"
     },
     "android": {
       "adaptiveIcon": {
